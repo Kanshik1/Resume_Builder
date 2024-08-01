@@ -8,13 +8,13 @@ def parse_resume(resume_text):
             "Phone Number": "123-456-7890",
             "Email": "Kanshik@example.com"
         },
-        "Summary": "Experienced software developer.",
+        "Summary": "Lead Game Programer at GameDev+ club in VIT Pune",
         "Experience": [
             {
-                "Company Name": "Tech Solutions Inc.",
-                "Position": "Senior Developer",
-                "Dates of Employment": "Jan 2020 - Present",
-                "Responsibilities": ["Led the development of web applications."]
+                "Company Name": "GameDev+",
+                "Position": "Lead Programer",
+                "Dates of Employment": "Mar 2023 - Present",
+                "Responsibilities": ["Lead Game programmer at Game DeV+ clubof VIT Pune(2023-Present) responsible fordesigning and development of 3D games"]
             }
         ],
         "Education": [
@@ -30,8 +30,8 @@ def parse_resume(resume_text):
 
 resume_text = """Name: Kanshik1
 Contact Information: Phone Number: 123-456-7890, Email: kanshik@example.com
-Summary: Experienced software developer.
-Experience: Tech Solutions Inc., Senior Developer, Jan 2020 - Present, Led the development of web applications.
+Summary: Lead Game Programer at GameDev+ club in VIT Pune
+Experience: GameDev+, Lead Programer, Jan 2023 - Present, Lead Game programmer at Game DeV+ clubof VIT Pune(2023-Present) responsible fordesigning and development of 3D games.
 Education: B.Tech in Mechanical Engineering, Vishwakarma Institute of Technology Pune, 2025
 Skills: Java, Python
 Certifications: Certification in python by IIT Kharagpur"""
