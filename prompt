@@ -1,0 +1,8 @@
+Please parse the following resume into JSON format. The resume will be provided after this prompt. The JSON should include the following fields:
+- Name
+- Contact Information (phone number and email)
+- Summary
+- Experience (company name, position, dates of employment, and responsibilities)
+- Education (degree, institution, and graduation year)
+- Skills (list of skills)
+- Certifications (list of certifications, if any)
